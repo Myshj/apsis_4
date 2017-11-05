@@ -1,0 +1,5 @@
+{
+  "type": "select",
+  "table": "table_name",
+  "columns": []
+}
